@@ -1,5 +1,5 @@
-# calculadora-simples.github.io
-Calculadora simples e funcional utilizando HTML, CSS e JavaScript
+# Calculadora simples e funcional utilizando HTML, CSS e JavaScript
+https://calculadora-simples.github.io
 
 ========
 
