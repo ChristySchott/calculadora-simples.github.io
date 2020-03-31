@@ -1,7 +1,7 @@
 # Calculadora simples e funcional utilizando HTML, CSS e JavaScript
-https://calculadora-simples.github.io
+https://christyschott/github.io/calculadorasimples.github.io
 
-========
+
 
 ![](./video.gif)
 
