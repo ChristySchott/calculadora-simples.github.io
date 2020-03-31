@@ -1,5 +1,5 @@
 # Calculadora simples e funcional utilizando HTML, CSS e JavaScript
-https://christyschott/github.io/calculadorasimples.github.io
+https://christyschott/github.io/calculadoraSimples.github.io
 
 
 
